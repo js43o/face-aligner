@@ -1,2 +1,8 @@
 output/
+out/
 samples/
+
+*.pyc
+*.png
+*.jpg
+*.jpeg
